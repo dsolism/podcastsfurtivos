@@ -16,7 +16,7 @@
             <pubDate>Sat, 07 Nov 2025 10:00:00 GMT</pubDate>  <!-- Fecha de publicación -->
             <description>Descripción breve del audio</description>
             <enclosure url="https://dl.dropboxusercontent.com/scl/fi/ip9enlakzapbezwt6u3cn/marco-ratti.mp3?rlkey=61s9nbuywmig4tdiaavlii3wb&amp;st=btg4vbqg&amp;dl=0" length="83413827" type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
-            <guid>ttps://dl.dropboxusercontent.com/scl/fi/ip9enlakzapbezwt6u3cn/marco-ratti.mp3?rlkey=61s9nbuywmig4tdiaavlii3wb&amp;st=btg4vbqg&amp;dl=0/guid>
+            <guid>ttps://dl.dropboxusercontent.com/scl/fi/ip9enlakzapbezwt6u3cn/marco-ratti.mp3?rlkey=61s9nbuywmig4tdiaavlii3wb&amp;st=btg4vbqg&amp;dl=0</guid>
         </item>
         <!-- Agrega más <item> aquí -->
     </channel>
