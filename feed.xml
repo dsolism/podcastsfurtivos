@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>\
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">\
-    <channel>\
-        <title>Podcasts Furtivos</title>\
-        <link>https://tudominio.github.io</link>  <!-- Tu GitHub Pages URL -->\
-        <description>Podcast personal con audios privados</description>\
-        <language>es</language>\
-        <image>\
-            <url>{\field{\*\fldinst{HYPERLINK "https://dl.dropboxusercontent.com/scl/fi/5scmnjb7jdgskmt9jmujn/Logo.png?rlkey=wqd65mlonr7wvvq36juhpozpr&st=vg2819km&dl=0"}}{\fldrslt https://dl.dropboxusercontent.com/scl/fi/5scmnjb7jdgskmt9jmujn/Logo.png?rlkey=wqd65mlonr7wvvq36juhpozpr&st=vg2819km&dl=0}}</url>  <!-- Sube una imagen a Dropbox tambi\'e9n -->\
-            <title>Logo Podcasts Furtivos</title>\
-            <width>1400</width>\
-            <height>1400</height>\
-        </image>\
-        <item>  <!-- Repite <item> por cada audio -->\
-            <title>#1 Entrevista a Marco Ratti</title>\
-            <pubDate>Sat, 08 Nov 2025 10:00:00 GMT</pubDate>  <!-- Fecha de publicaci\'f3n -->\
-            <description>Interesante charla con Marco Ratti sobre narcisismo</description>\
-            <enclosure url="{\field{\*\fldinst{HYPERLINK "https://dl.dropboxusercontent.com/scl/fi/ip9enlakzapbezwt6u3cn/marco-ratti.mp3?rlkey=61s9nbuywmig4tdiaavlii3wb&st=btg4vbqg&dl=0"}}{\fldrslt https://dl.dropboxusercontent.com/scl/fi/ip9enlakzapbezwt6u3cn/marco-ratti.mp3?rlkey=61s9nbuywmig4tdiaavlii3wb&st=btg4vbqg&dl=0}}" length="83413827" type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->\
-            <guid>https://dl.dropboxusercontent.com/scl/fi/ip9enlakzapbezwt6u3cn/marco-ratti.mp3?rlkey=61s9nbuywmig4tdiaavlii3wb&st=btg4vbqg&dl=0</guid>\
-        </item>\
-        <!-- Agrega m\'e1s <item> aqu\'ed -->\
-    </channel>\
-</rss>}
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Podcasts Furtivos</title>
+        <link>https://dsolism.github.io</link>  <!-- Tu GitHub Pages URL -->
+        <description>Podcast personal con audios privados</description>
+        <language>es</language>
+        <image>
+            <url>https://dl.dropboxusercontent.com/scl/fi/5scmnjb7jdgskmt9jmujn/Logo.png?rlkey=wqd65mlonr7wvvq36juhpozpr&st=vg2819km&dl=0/url>  <!-- Sube una imagen a Dropbox también -->
+            <title>Mis Audios Privados</title>
+            <width>1400</width>
+            <height>1400</height>
+        </image>
+        <item>  <!-- Repite <item> por cada audio -->
+            <title>Episodio 1: Marco Ratti/title>
+            <pubDate>Sat, 07 Nov 2025 10:00:00 GMT</pubDate>  <!-- Fecha de publicación -->
+            <description>Descripción breve del audio</description>
+            <enclosure url="https://dl.dropboxusercontent.com/scl/fi/ip9enlakzapbezwt6u3cn/marco-ratti.mp3?rlkey=61s9nbuywmig4tdiaavlii3wb&st=btg4vbqg&dl=0" length="83413827" type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
+            <guid>ttps://dl.dropboxusercontent.com/scl/fi/ip9enlakzapbezwt6u3cn/marco-ratti.mp3?rlkey=61s9nbuywmig4tdiaavlii3wb&st=btg4vbqg&dl=0/guid>
+        </item>
+        <!-- Agrega más <item> aquí -->
+    </channel>
+</rss>
