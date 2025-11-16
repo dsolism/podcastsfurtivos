@@ -19,5 +19,12 @@
             <guid>ttps://dl.dropboxusercontent.com/scl/fi/ip9enlakzapbezwt6u3cn/marco-ratti.mp3?rlkey=61s9nbuywmig4tdiaavlii3wb&amp;st=btg4vbqg&amp;dl=0</guid>
         </item>
         <!-- Agrega más <item> aquí -->
+        <item>  <!-- Repite <item> por cada audio -->
+            <title>#2 - Trauma con Machy Guerrero y Oscar Rivas</title>
+            <pubDate>Sun, 15 Nov 2025 18:00:00 GMT</pubDate>  <!-- Fecha de publicación -->
+            <description>Charla desarrollada en Instagram/description>
+            <enclosure url="https://www.dropbox.com/scl/fi/mphrdordjp6j9rjadp020/2-Trauma-con-Machy-Guerrero-y-Oscar-Rivas.m4a?rlkey=2vpjekwl4lyoqiyyz6sdl0e0l&st=6zaqmlr9&dl=1" length="43703970" type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
+            <guid>https://www.dropbox.com/scl/fi/mphrdordjp6j9rjadp020/2-Trauma-con-Machy-Guerrero-y-Oscar-Rivas.m4a?rlkey=2vpjekwl4lyoqiyyz6sdl0e0l&st=6zaqmlr9&dl=1/guid>
+        </item>
     </channel>
 </rss>
