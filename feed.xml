@@ -26,5 +26,12 @@
             <enclosure url="https://www.dropbox.com/scl/fi/mphrdordjp6j9rjadp020/2-Trauma-con-Machy-Guerrero-y-Oscar-Rivas.m4a?rlkey=2vpjekwl4lyoqiyyz6sdl0e0l&amp;st=6zaqmlr9&amp;dl=1" length="43703970" type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
             <guid>https://www.dropbox.com/scl/fi/mphrdordjp6j9rjadp020/2-Trauma-con-Machy-Guerrero-y-Oscar-Rivas.m4a?rlkey=2vpjekwl4lyoqiyyz6sdl0e0l&amp;st=6zaqmlr9&amp;dl=1</guid>
         </item>
+        <item>  <!-- Repite <item> por cada audio -->
+            <title>#3 - Live Marco Ratti</title>
+            <pubDate>Mon, 16 Nov 2025 11:00:00 GMT</pubDate>  <!-- Fecha de publicación -->
+            <description>Directo de Marco Ratti en Instagram</description>
+            <enclosure url="https://www.dropbox.com/scl/fi/mgb9e1khjrdh4tdnbparn/3-Live-Marco-Ratti.m4a?rlkey=r5fsdi8atxgaixmg4eh85ey0s&amp;st=dlckfiwq&amp;dl=1" length="9906392" type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
+            <guid>https://www.dropbox.com/scl/fi/mgb9e1khjrdh4tdnbparn/3-Live-Marco-Ratti.m4a?rlkey=r5fsdi8atxgaixmg4eh85ey0s&amp;st=dlckfiwq&amp;dl=1</guid>
+        </item>
     </channel>
 </rss>
