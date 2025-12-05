@@ -32,6 +32,14 @@
             <description>Directo de Marco Ratti en Instagram</description>
             <enclosure url="https://www.dropbox.com/scl/fi/mgb9e1khjrdh4tdnbparn/3-Live-Marco-Ratti.m4a?rlkey=r5fsdi8atxgaixmg4eh85ey0s&amp;st=dlckfiwq&amp;dl=1" length="9906392" type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
             <guid>https://www.dropbox.com/scl/fi/mgb9e1khjrdh4tdnbparn/3-Live-Marco-Ratti.m4a?rlkey=r5fsdi8atxgaixmg4eh85ey0s&amp;st=dlckfiwq&amp;dl=1</guid>
+        </item>       
+        <item>  <!-- Repite <item> por cada audio -->
+            <title>#4 - Trauma con Maxi McCoubrey y Carla Cardona</title>
+            <pubDate>Fri, 05 Dec 2025 21:00:00 GMT</pubDate>  <!-- Fecha de publicación -->
+            <description>Charla en Instagram</description>
+            <itunes:duration>2662</itunes:duration>
+            <enclosure url="https://www.dropbox.com/scl/fi/tzz7vw59am5asaq6ai7l3/4-Trauma-con-Carla-Cardona-y-Maxi-McCorey.m4a?rlkey=35jd6nxgddlbm9iqq6ogxx4oe&amp;st=avy6atgv&amp;dl=1" length="34465699" type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
+            <guid>https://www.dropbox.com/scl/fi/tzz7vw59am5asaq6ai7l3/4-Trauma-con-Carla-Cardona-y-Maxi-McCorey.m4a?rlkey=35jd6nxgddlbm9iqq6ogxx4oe&amp;st=avy6atgv&amp;dl=1</guid>
         </item>
     </channel>
 </rss>
