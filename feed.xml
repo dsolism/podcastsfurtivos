@@ -49,5 +49,13 @@
             <enclosure url="https://www.dropbox.com/scl/fi/06rm2t49a9ljwxzdkvdlx/5-De-la-herida-a-la-sanci-n-con-Abigail-Rapaport-y-Maxi-McCoyubrey.m4a?rlkey=wvp3pqmvm6cmdbc2j171w7svw&amp;st=7z511bg9&amp;dl=1" length="47638859" type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
             <guid>https://www.dropbox.com/scl/fi/06rm2t49a9ljwxzdkvdlx/5-De-la-herida-a-la-sanci-n-con-Abigail-Rapaport-y-Maxi-McCoyubrey.m4a?rlkey=wvp3pqmvm6cmdbc2j171w7svw&amp;st=7z511bg9&amp;dl=1</guid>
         </item>
+        <item>  <!-- Repite <item> por cada audio -->
+            <title>#5 - Entrevista Nazareth Castellanos</title>
+            <pubDate>Tue, 30 Dec 2025 22:00:00 GMT</pubDate>  <!-- Fecha de publicación -->
+            <description>Entrevista en el canal 24h</description>
+            <itunes:duration>578</itunes:duration>
+            <enclosure url="https://www.dropbox.com/scl/fi/50atq73vt7rx3xj3hsufx/6-Entrevista-Nazareth-Castellanos.m4a?rlkey=rbatames5sq4s4zgu451a3thg&amp;st=76tcnorj&amp;dl=1" length="3693942 " type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
+            <guid>https://www.dropbox.com/scl/fi/50atq73vt7rx3xj3hsufx/6-Entrevista-Nazareth-Castellanos.m4a?rlkey=rbatames5sq4s4zgu451a3thg&amp;st=76tcnorj&amp;dl=1</guid>
+        </item>
     </channel>
 </rss>
