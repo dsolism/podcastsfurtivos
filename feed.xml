@@ -65,5 +65,13 @@
             <enclosure url="https://www.dropbox.com/scl/fi/785wgbs5pt4zlkfmrtacn/7-Trauma-y-Neurodivergencia-con-Marco-Ratti-y-Abraham-R-os.m4a?rlkey=5sqyf4x0wpy4b5pw0ahlb474i&amp;st=860u7hb0&amp;dl=1" length="21001450 " type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
             <guid>https://www.dropbox.com/scl/fi/785wgbs5pt4zlkfmrtacn/7-Trauma-y-Neurodivergencia-con-Marco-Ratti-y-Abraham-R-os.m4a?rlkey=5sqyf4x0wpy4b5pw0ahlb474i&amp;st=860u7hb0&amp;dl=1</guid>
         </item>
+        <item>  <!-- Repite <item> por cada audio -->
+            <title>#8 Sistema nervioso y niños</title>
+            <pubDate>Tht, 27 Feb 2026 08:00:00 GMT</pubDate>  <!-- Fecha de publicación -->
+            <description>Conversación con Diana Arreola. URL https://www.instagram.com/reels/DVNA5CKjp32/</description>
+            <itunes:duration>2985</itunes:duration>
+            <enclosure url="https://www.dropbox.com/scl/fi/xibe0dmuk2f038all93ch/8-Sistema-nervioso-y-ni-os.m4a?rlkey=3gqb1jjhy84oqd5i4q8td4gvg&amp;st=nousf5q5&amp;dl=1" length="38567924 " type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
+            <guid>https://www.dropbox.com/scl/fi/xibe0dmuk2f038all93ch/8-Sistema-nervioso-y-ni-os.m4a?rlkey=3gqb1jjhy84oqd5i4q8td4gvg&amp;st=nousf5q5&amp;dl=1</guid>
+        </item>
     </channel>
 </rss>
