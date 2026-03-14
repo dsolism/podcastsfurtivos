@@ -81,5 +81,21 @@
             <enclosure url="https://www.dropbox.com/scl/fi/28nsu4g9qf4px4xen1brf/9-Addici-n-a-la-prisa.m4a?rlkey=zfdx3bjtxha1b6gsmz5e2iasj&amp;st=r1yff110&amp;dl=1" length="50143220" type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
             <guid>https://www.dropbox.com/scl/fi/28nsu4g9qf4px4xen1brf/9-Addici-n-a-la-prisa.m4a?rlkey=zfdx3bjtxha1b6gsmz5e2iasj&amp;st=r1yff110&amp;dl=1</guid>
         </item>
+        <item>  <!-- Repite <item> por cada audio -->
+            <title>#10 Prácticas somáticas</title>
+            <pubDate>Sa, 14 Mar 2026 08:00:00 GMT</pubDate>  <!-- Fecha de publicación -->
+            <description>Conversación entre Lucas Casanova y Tam Perelman URL https://www.instagram.com/reel/DV1z0UijXDO/</description>
+            <itunes:duration>3393</itunes:duration>
+            <enclosure url="https://www.dropbox.com/scl/fi/z1836xlc86vb13fsim5zm/10-Pr-citas-som-ticas.m4a?rlkey=hudvi3htvlne43qpotxv29a3c&amp;st=tbsgc63w&amp;dl=1" length="43476728" type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
+            <guid>https://www.dropbox.com/scl/fi/z1836xlc86vb13fsim5zm/10-Pr-citas-som-ticas.m4a?rlkey=hudvi3htvlne43qpotxv29a3c&amp;st=tbsgc63w&amp;dl=1</guid>
+        </item>
+        <item>  <!-- Repite <item> por cada audio -->
+            <title>#11 Burnout profesional</title>
+            <pubDate>Sa, 14 Mar 2026 09:00:00 GMT</pubDate>  <!-- Fecha de publicación -->
+            <description>Directo de Marco Ratti en Instagram: https://www.instagram.com/reel/DVznht3jiqF/</description>
+            <itunes:duration>2298</itunes:duration>
+            <enclosure url="https://www.dropbox.com/scl/fi/cxo1ouphv2rjkiyeekuu6/11-Burnout-profesional.m4a?rlkey=tmzdpzqevfjtetvwuy2eivf98&amp;st=0m1o1k6c&amp;dl=1" length="30068210" type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
+            <guid>https://www.dropbox.com/scl/fi/cxo1ouphv2rjkiyeekuu6/11-Burnout-profesional.m4a?rlkey=tmzdpzqevfjtetvwuy2eivf98&amp;st=0m1o1k6c&amp;dl=1</guid>
+        </item>
     </channel>
 </rss>
