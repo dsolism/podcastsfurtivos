@@ -105,5 +105,13 @@
             <enclosure url="https://www.dropbox.com/scl/fi/6jcpt2n37m7lr5shj90vl/12-Directo-Nuria-Roure.m4a?rlkey=5kmwx75ky8yadiswjabs6noef&amp;st=s3xt2c20&amp;dl=1" length="31446923" type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
             <guid>https://www.dropbox.com/scl/fi/6jcpt2n37m7lr5shj90vl/12-Directo-Nuria-Roure.m4a?rlkey=5kmwx75ky8yadiswjabs6noef&amp;st=s3xt2c20&amp;dl=1</guid>
         </item>
+        <item>  <!-- Repite <item> por cada audio -->
+            <title>#13 Hijos abusivos con los padres</title>
+            <pubDate>Sat, 04 Apr 2026 14:00:00 CEST</pubDate>  <!-- Fecha de publicación -->
+            <description>Cahrla en Instagram entre Maxi MacCoubrey y Lucas Casanova: https://www.instagram.com/reel/DVeR1g1Ddlw/</description>
+            <itunes:duration>2151</itunes:duration>
+            <enclosure url="https://www.dropbox.com/scl/fi/hkst7pn7018hqg6eqdpxi/13-Hijos-abusivos-con-los-padres.m4a?rlkey=0512t81pw79vdysdw3vybdin9&amp;st=6x30klf3&amp;dl=1" length="27746597" type="audio/mpeg"/>  <!-- Length en bytes: revisa propiedades del archivo -->
+            <guid>https://www.dropbox.com/scl/fi/hkst7pn7018hqg6eqdpxi/13-Hijos-abusivos-con-los-padres.m4a?rlkey=0512t81pw79vdysdw3vybdin9&amp;st=6x30klf3&amp;dl=1</guid>
+        </item>
     </channel>
 </rss>
